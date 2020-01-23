@@ -18,13 +18,21 @@ people about; but, what do you expect in a CS assignment ...?
 You are standing in a spacious hall, splendidly decorated in red and
 gold, with glittering chandeliers overhead. The entrance from the street
 is to the north, and there are doorways south and west.
+? go w
+The walls of this small room were clearly once lined with hooks, though
+now only one remains. The exit is a door to the east. There is a brass
+hook here.
+? look
+The walls of this small room were clearly once lined with hooks, though
+now only one remains. The exit is a door to the east. There is a brass
+hook here.
+? inventory
+You are carrying a velvet cloak (worn).
+? go out
+You are in the hall.
 ? go s
 It is dark in here!
 ? look
-It is dark in here!
-? inventory
-You are carrying a velvet cloak (worn).
-? drop cloak
 I have a better idea: let's get out of here before you disturb anything.
 ? go out
 You are in the hall.
