@@ -8,7 +8,7 @@ Adventure engine for a simple interactive fiction game. The game has five rooms,
 3. Change directory to the repository
 4. Type 'java -cp src cs345.GameMain CloakHardCoded' to start the game
 5. Here is a test game showcasing some of the commands you can use
-'''
+```
 The Cloak of Darkness (Version 0.1)
 
 Hurrying through the rain swept November night, you're glad to see the
@@ -59,4 +59,4 @@ The message has been carelessly trampled, making it difficult to read.
 You can just distinguish the words...
 
 YOU HAVE LOST !!!
-'''
+```
